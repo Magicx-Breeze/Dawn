@@ -2,6 +2,10 @@
 
 Dawn is a retro frontend that heavily references Daijishou look and feel, tweaked for our devices to provide more scalability in our future. Currently, it\'s in its infancy. In the future, we will continue to work hard on updates based on feedback from people in the community and our own experiences with retro games.
 
+# Dawn Wiki
+
+If you want to know how Dawn works, you can check out the - [Wiki](https://github.com/Magicx-Breeze/Dawn/wiki)
+
 # origin of name
 
 The name Dawn is inspired by the darkness before dawn, symbolizing the emergence of light from silence, heralding a moment of brightness.
