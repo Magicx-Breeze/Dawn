@@ -1,0 +1,2357 @@
+{
+  "3do": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "opera"
+    ],
+    "default_core": "opera",
+    "extension": [
+      ".iso",
+      ".bin",
+      ".chd",
+      ".cue"
+    ],
+    "fullname": "3DO",
+    "id": 29,
+    "name": "3do",
+    "sa_core": []
+  },
+  "amiga": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "puae",
+      "puae2021"
+    ],
+    "default_core": "puae",
+    "extension": [
+      ".zip",
+      ".adf",
+      ".uae",
+      ".ipf",
+      ".dms",
+      ".adz",
+      ".lha",
+      ".m3u",
+      ".hdf",
+      ".hdz"
+    ],
+    "fullname": "Amiga",
+    "id": 64,
+    "name": "amiga",
+    "sa_core": []
+  },
+  "amigacd32": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "puae",
+      "puae2021"
+    ],
+    "default_core": "puae",
+    "extension": [
+      ".iso",
+      ".cue",
+      ".lha",
+      ".chd"
+    ],
+    "fullname": "Amiga CD32",
+    "id": 130,
+    "name": "amigacd32",
+    "sa_core": []
+  },
+  "amstradcpc": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "crocods",
+      "cap32"
+    ],
+    "default_core": "crocods",
+    "extension": [
+      ".dsk",
+      ".cpr",
+      ".sna",
+      ".tap",
+      ".cdt",
+      ".kcr",
+      ".voc",
+      ".m3u",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Amstrad CPC",
+    "id": 0,
+    "name": "amstradcpc",
+    "sa_core": []
+  },
+  "arcade": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mame2003",
+      "mame2003_plus",
+      "mame2003_midway",
+      "mame2010",
+      "mame2000",
+      "fbalpha",
+      "fbneo",
+      "fbalpha2012",
+      "fbalpha2012_neogeo",
+      "fbalpha2012_cps1",
+      "fbalpha2012_cps2",
+      "fbalpha2012_cps3"
+    ],
+    "default_core": "mame2003_plus",
+    "extension": [
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Arcade",
+    "id": 6,
+    "name": "arcade",
+    "sa_core": []
+  },
+  "arduboy": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "arduous"
+    ],
+    "default_core": "arduous",
+    "extension": [
+      ".hex"
+    ],
+    "fullname": "Arduboy",
+    "id": 263,
+    "name": "arduboy",
+    "sa_core": []
+  },
+  "atari2600": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "stella",
+      "stella2014",
+      "stella2023"
+    ],
+    "default_core": "stella",
+    "extension": [
+      ".a26",
+      ".bin",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Atari 2600",
+    "id": 26,
+    "name": "atari2600",
+    "sa_core": []
+  },
+  "atari5200": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "a5200",
+      "atari800"
+    ],
+    "default_core": "a5200",
+    "extension": [
+      ".rom",
+      ".xfd",
+      ".atr",
+      ".atx",
+      ".cdm",
+      ".cas",
+      ".car",
+      ".bin",
+      ".a52",
+      ".xex",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Atari 5200",
+    "id": 40,
+    "name": "atari5200",
+    "sa_core": []
+  },
+  "atari7800": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "prosystem"
+    ],
+    "default_core": "prosystem",
+    "extension": [
+      ".a78",
+      ".bin",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Atari 7800",
+    "id": 41,
+    "name": "atari7800",
+    "sa_core": []
+  },
+  "atari800": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "atari800"
+    ],
+    "default_core": "atari800",
+    "extension": [
+      ".rom",
+      ".xfd",
+      ".atr",
+      ".atx",
+      ".cdm",
+      ".cas",
+      ".car",
+      ".bin",
+      ".a52",
+      ".xex",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Atari 800",
+    "id": 43,
+    "name": "atari800",
+    "sa_core": []
+  },
+  "atarijaguar": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "virtualjaguar"
+    ],
+    "default_core": "virtualjaguar",
+    "extension": [
+      ".j64",
+      ".jag",
+      ".rom",
+      ".abs",
+      ".cof",
+      ".bin",
+      ".prg"
+    ],
+    "fullname": "Atari Jaguar",
+    "id": 27,
+    "name": "atarijaguar",
+    "sa_core": []
+  },
+  "atarilynx": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "handy"
+    ],
+    "default_core": "handy",
+    "extension": [
+      ".lnx",
+      ".lyx",
+      ".o",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Atari Lynx",
+    "id": 28,
+    "name": "atarilynx",
+    "sa_core": []
+  },
+  "atarist": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "hatari"
+    ],
+    "default_core": "hatari",
+    "extension": [
+      ".st",
+      ".msa",
+      ".stx",
+      ".dim",
+      ".ipf",
+      ".m3u",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Atari ST",
+    "id": 42,
+    "name": "atarist",
+    "sa_core": [
+      "hatarisa"
+    ]
+  },
+  "atomiswave": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "flycast"
+    ],
+    "default_core": "flycast-sa",
+    "extension": [
+      ".lst",
+      ".bin",
+      ".dat",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Atomiswave",
+    "id": 53,
+    "name": "atomiswave",
+    "sa_core": [
+      "flycast-sa"
+    ]
+  },
+  "c128": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "vice_x128"
+    ],
+    "default_core": "vice_x128",
+    "extension": [
+      ".d64",
+      ".d71",
+      ".d80",
+      ".d81",
+      ".d82",
+      ".g64",
+      ".g41",
+      ".x64",
+      ".t64",
+      ".tap",
+      ".prg",
+      ".p00",
+      ".crt",
+      ".bin",
+      ".d6z",
+      ".d7z",
+      ".d8z",
+      ".g6z",
+      ".g4z",
+      ".x6z",
+      ".cmd",
+      ".m3u",
+      ".vsf",
+      ".nib",
+      ".nbz",
+      ".zip"
+    ],
+    "fullname": "Commodore 128",
+    "id": 66,
+    "name": "c128",
+    "sa_core": []
+  },
+  "c16": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "vice_xplus4"
+    ],
+    "default_core": "vice_xplus4",
+    "extension": [
+      ".d64",
+      ".d71",
+      ".d80",
+      ".d81",
+      ".d82",
+      ".g64",
+      ".g41",
+      ".x64",
+      ".t64",
+      ".tap",
+      ".prg",
+      ".p00",
+      ".crt",
+      ".bin",
+      ".d6z",
+      ".d7z",
+      ".d8z",
+      ".g6z",
+      ".g4z",
+      ".x6z",
+      ".cmd",
+      ".m3u",
+      ".vsf",
+      ".nib",
+      ".nbz",
+      ".zip"
+    ],
+    "fullname": "Commodore 16",
+    "id": 99,
+    "name": "c16",
+    "sa_core": []
+  },
+  "c64": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "vice_x64",
+      "vice_x64sc"
+    ],
+    "default_core": "vice_x64",
+    "extension": [
+      ".d64",
+      ".d71",
+      ".d80",
+      ".d81",
+      ".d82",
+      ".g64",
+      ".g41",
+      ".x64",
+      ".t64",
+      ".tap",
+      ".prg",
+      ".p00",
+      ".crt",
+      ".bin",
+      ".d6z",
+      ".d7z",
+      ".d8z",
+      ".g6z",
+      ".g4z",
+      ".x6z",
+      ".cmd",
+      ".m3u",
+      ".vsf",
+      ".nib",
+      ".nbz",
+      ".zip"
+    ],
+    "fullname": "Commodore 64",
+    "id": 66,
+    "name": "c64",
+    "sa_core": []
+  },
+  "cdi": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "same_cdi"
+    ],
+    "default_core": "same_cdi",
+    "extension": [
+      ".chd",
+      ".cue",
+      ".iso"
+    ],
+    "fullname": "CD-i",
+    "id": 133,
+    "name": "cdi",
+    "sa_core": []
+  },
+  "channelf": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "freechaf"
+    ],
+    "default_core": "freechaf",
+    "extension": [
+      ".bin",
+      ".chf",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Fairchild Channel F",
+    "id": 80,
+    "name": "channelf",
+    "sa_core": []
+  },
+  "colecovision": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "gearcoleco",
+      "bluemsx",
+      "smsplus"
+    ],
+    "default_core": "gearcoleco",
+    "extension": [
+      ".bin",
+      ".col",
+      ".rom",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "ColecoVision",
+    "id": 48,
+    "name": "colecovision",
+    "sa_core": []
+  },
+  "cps1": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mame2003",
+      "mame2003_plus",
+      "mame2003_midway",
+      "mame2010",
+      "mame2000",
+      "fbneo",
+      "fbalpha",
+      "fbalpha2012",
+      "fbalpha2012_neogeo",
+      "fbalpha2012_cps1",
+      "fbalpha2012_cps2",
+      "fbalpha2012_cps3"
+    ],
+    "default_core": "fbalpha2012_cps1",
+    "extension": [
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "CPS-I",
+    "id": 6,
+    "name": "cps1",
+    "sa_core": []
+  },
+  "cps2": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mame2003",
+      "mame2003_plus",
+      "mame2003_midway",
+      "mame2010",
+      "mame2000",
+      "fbneo",
+      "fbalpha",
+      "fbalpha2012",
+      "fbalpha2012_neogeo",
+      "fbalpha2012_cps1",
+      "fbalpha2012_cps2",
+      "fbalpha2012_cps3"
+    ],
+    "default_core": "fbalpha2012_cps2",
+    "extension": [
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "CPS-II",
+    "id": 7,
+    "name": "cps2",
+    "sa_core": []
+  },
+  "cps3": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mame2003",
+      "mame2003_plus",
+      "mame2003_midway",
+      "mame2010",
+      "mame2000",
+      "fbneo",
+      "fbalpha",
+      "fbalpha2012",
+      "fbalpha2012_neogeo",
+      "fbalpha2012_cps1",
+      "fbalpha2012_cps2",
+      "fbalpha2012_cps3"
+    ],
+    "default_core": "fbalpha2012_cps3",
+    "extension": [
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "CPS-III",
+    "id": 8,
+    "name": "cps3",
+    "sa_core": []
+  },
+  "daphne": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "daphne"
+    ],
+    "default_core": "daphne",
+    "extension": [
+      ".daphne",
+      ".singe"
+    ],
+    "fullname": "Daphne",
+    "id": 49,
+    "name": "daphne",
+    "sa_core": []
+  },
+  "dreamcast": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "flycast"
+    ],
+    "default_core": "flycast-sa",
+    "extension": [
+      ".cdi",
+      ".gdi",
+      ".chd",
+      ".m3u",
+      ".cue"
+    ],
+    "fullname": "Dreamcast",
+    "id": 23,
+    "name": "dreamcast",
+    "sa_core": [
+      "flycast-sa",
+      "redream-sa"
+    ]
+  },
+  "easyrpg": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "easyrpg"
+    ],
+    "default_core": "easyrpg",
+    "extension": [
+      ".zip",
+      ".easyrpg",
+      ".ldb"
+    ],
+    "fullname": "EasyRPG",
+    "id": 231,
+    "name": "easyrpg",
+    "sa_core": []
+  },
+  "famicom": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "nestopia",
+      "fceumm",
+      "quicknes",
+      "mesen",
+      "mesen-s"
+    ],
+    "default_core": "fceumm",
+    "extension": [
+      ".nes",
+      ".unif",
+      ".unf",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Famicom",
+    "id": 3,
+    "name": "famicom",
+    "sa_core": []
+  },
+  "fbn": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mame2003",
+      "mame2003_plus",
+      "mame2003_midway",
+      "mame2010",
+      "mame2000",
+      "fbneo",
+      "fbalpha",
+      "fbalpha2012",
+      "fbalpha2012_neogeo",
+      "fbalpha2012_cps1",
+      "fbalpha2012_cps2",
+      "fbalpha2012_cps3"
+    ],
+    "default_core": "fbneo",
+    "extension": [
+      ".7z",
+      ".zip"
+    ],
+    "fullname": "Final Burn Neo",
+    "id": 75,
+    "name": "fbn",
+    "sa_core": []
+  },
+  "fds": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "nestopia",
+      "fceumm",
+      "quicknes",
+      "mesen",
+      "mesen-s"
+    ],
+    "default_core": "fceumm",
+    "extension": [
+      ".fds",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Famicom Disk System",
+    "id": 106,
+    "name": "fds",
+    "sa_core": []
+  },
+  "gameandwatch": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "gw"
+    ],
+    "default_core": "gw",
+    "extension": [
+      ".mgw",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Game \u0026 Watch",
+    "id": 52,
+    "name": "gameandwatch",
+    "sa_core": []
+  },
+  "gamegear": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "gearsystem",
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive",
+      "smsplus"
+    ],
+    "default_core": "gearsystem",
+    "extension": [
+      ".bin",
+      ".gg",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Game Gear",
+    "id": 21,
+    "name": "gamegear",
+    "sa_core": []
+  },
+  "gb": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "gambatte",
+      "sameboy",
+      "gearboy",
+      "tgbdual",
+      "mgba",
+      "vbam"
+    ],
+    "default_core": "gambatte",
+    "extension": [
+      ".gb",
+      ".gbc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Game Boy",
+    "id": 9,
+    "name": "gb",
+    "sa_core": ["myoldboy-sa"]
+  },
+  "gba": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mgba",
+      "vbam",
+      "vba_next"
+    ],
+    "default_core": "mgba",
+    "extension": [
+      ".gba",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Game Boy Advance",
+    "id": 12,
+    "name": "gba",
+    "sa_core": ["myboy-sa"]
+  },
+  "gbah": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mgba",
+      "vbam",
+      "vba_next"
+    ],
+    "default_core": "mgba",
+    "extension": [
+      ".gba",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Game Boy Advance (Hacks)",
+    "id": 12,
+    "name": "gbah",
+    "sa_core": ["myboy-sa"]
+  },
+  "gbc": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "gambatte",
+      "sameboy",
+      "gearboy",
+      "tgbdual",
+      "mgba",
+      "vbam"
+    ],
+    "default_core": "gambatte",
+    "extension": [
+      ".gb",
+      ".gbc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Game Boy Color",
+    "id": 10,
+    "name": "gbc",
+    "sa_core": ["myoldboy-sa"]
+  },
+  "gbch": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "gambatte",
+      "sameboy",
+      "gearboy",
+      "tgbdual",
+      "mgba",
+      "vbam"
+    ],
+    "default_core": "gambatte",
+    "extension": [
+      ".gb",
+      ".gbc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Game Boy Color (Hacks)",
+    "id": 10,
+    "name": "gbch",
+    "sa_core": ["myoldboy-sa"]
+  },
+  "gbh": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "gambatte",
+      "sameboy",
+      "gearboy",
+      "tgbdual",
+      "mgba",
+      "vbam"
+    ],
+    "default_core": "gambatte",
+    "extension": [
+      ".gb",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Game Boy (Hacks)",
+    "id": 9,
+    "name": "gbh",
+    "sa_core": ["myoldboy-sa"]
+  },
+  "genesis": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive"
+    ],
+    "default_core": "genesis_plus_gx",
+    "extension": [
+      ".bin",
+      ".gen",
+      ".md",
+      ".sg",
+      ".smd",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Genesis",
+    "id": 1,
+    "name": "genesis",
+    "sa_core": []
+  },
+  "genh": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive"
+    ],
+    "default_core": "genesis_plus_gx",
+    "extension": [
+      ".bin",
+      ".gen",
+      ".md",
+      ".sg",
+      ".smd",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Genesis (Hacks)",
+    "id": 1,
+    "name": "genh",
+    "sa_core": []
+  },
+  "ggh": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "gearsystem",
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive",
+      "smsplus"
+    ],
+    "default_core": "gearsystem",
+    "extension": [
+      ".bin",
+      ".gg",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Game Gear (Hacks)",
+    "id": 21,
+    "name": "ggh",
+    "sa_core": []
+  },
+  "intellivision": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "freeintv"
+    ],
+    "default_core": "freeintv",
+    "extension": [
+      ".int",
+      ".bin",
+      ".rom",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Intellivision",
+    "id": 115,
+    "name": "intellivision",
+    "sa_core": []
+  },
+  "macintosh": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "minivmac"
+    ],
+    "default_core": "minivmac",
+    "extension": [
+      ".dsk",
+      ".img",
+      ".hfv",
+      ".cmd",
+      ".zip"
+    ],
+    "fullname": "Macintosh",
+    "id": 146,
+    "name": "macintosh",
+    "sa_core": []
+  },
+  "mame": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mame2003",
+      "mame2003_plus",
+      "mame2003_midway",
+      "mame2010",
+      "mame2000",
+      "fbneo",
+      "fbalpha",
+      "fbalpha2012",
+      "fbalpha2012_neogeo",
+      "fbalpha2012_cps1",
+      "fbalpha2012_cps2",
+      "fbalpha2012_cps3"
+    ],
+    "default_core": "fbneo",
+    "extension": [
+      ".7z",
+      ".zip"
+    ],
+    "fullname": "MAME",
+    "id": 75,
+    "name": "mame",
+    "sa_core": []
+  },
+  "mastersystem": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "gearsystem",
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive",
+      "smsplus"
+    ],
+    "default_core": "gearsystem",
+    "extension": [
+      ".bin",
+      ".sms",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Master System",
+    "id": 2,
+    "name": "mastersystem",
+    "sa_core": []
+  },
+  "megacd": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive"
+    ],
+    "default_core": "genesis_plus_gx",
+    "extension": [
+      ".chd",
+      ".cue",
+      ".iso",
+      ".m3u"
+    ],
+    "fullname": "Mega CD",
+    "id": 20,
+    "name": "megacd",
+    "sa_core": []
+  },
+  "megadrive-japan": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive"
+    ],
+    "default_core": "genesis_plus_gx",
+    "extension": [
+      ".bin",
+      ".gen",
+      ".md",
+      ".sg",
+      ".smd",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Mega Drive",
+    "id": 1,
+    "name": "megadrive-japan",
+    "sa_core": []
+  },
+  "megadrive": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive"
+    ],
+    "default_core": "genesis_plus_gx",
+    "extension": [
+      ".bin",
+      ".gen",
+      ".md",
+      ".sg",
+      ".smd",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Mega Drive",
+    "id": 1,
+    "name": "megadrive",
+    "sa_core": []
+  },
+  "megaduck": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "sameduck"
+    ],
+    "default_core": "sameduck",
+    "extension": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Mega Duck",
+    "id": 90,
+    "name": "megaduck",
+    "sa_core": []
+  },
+  "moto": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "theodore"
+    ],
+    "default_core": "theodore",
+    "extension": [
+      ".fd",
+      ".sap",
+      ".k7",
+      ".m7",
+      ".m5",
+      ".rom"
+    ],
+    "fullname": "MO/TO family (TO7, TO7/70, TO8, TO8D, TO9, TO9+, MO5 and MO6)",
+    "id": 141,
+    "name": "moto",
+    "sa_core": []
+  },
+  "msx": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "bluemsx",
+      "fmsx"
+    ],
+    "default_core": "bluemsx",
+    "extension": [
+      ".dsk",
+      ".mx1",
+      ".mx2",
+      ".rom",
+      ".zip",
+      ".7z",
+      ".m3u"
+    ],
+    "fullname": "MSX",
+    "id": 113,
+    "name": "msx",
+    "sa_core": []
+  },
+  "msx2": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "bluemsx",
+      "fmsx"
+    ],
+    "default_core": "bluemsx",
+    "extension": [
+      ".dsk",
+      ".mx1",
+      ".mx2",
+      ".rom",
+      ".zip",
+      ".7z",
+      ".m3u"
+    ],
+    "fullname": "MSX 2",
+    "id": 116,
+    "name": "msx2",
+    "sa_core": []
+  },
+  "n64": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mupen64plus_next_gles2",
+      "mupen64plus_next_gles3",
+      "parallel_n64"
+    ],
+    "default_core": "mupen64plusFz-Glide64-Accurate",
+    "extension": [
+      ".z64",
+      ".n64",
+      ".v64",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Nintendo 64",
+    "id": 14,
+    "name": "n64",
+    "sa_core": [
+      "mupen64plusFz-Glide64-Accurate",
+      "mupen64plusFz-Glide64-Accurate-free",
+      "mupen64plusFz-Glide64-Fast",
+      "mupen64plusFz-GlideN64-Accurate",
+      "mupen64plusFz-GlideN64-Fast",
+      "mupen64plusFz-GlideN64-Medium",
+      "mupen64plusFz-GlideN64-Very-Accurate",
+      "mupen64plusFz-Gln64-Accurate",
+      "mupen64plusFz-Gln64-Fast",
+      "mupen64plusFz-Parallel",
+      "mupen64plusFz-Rice-Accurate",
+      "mupen64plusFz-Rice-Fast",
+      "mupen64plusFz-Software-Renderer"
+    ]
+  },
+  "naomi": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "flycast"
+    ],
+    "default_core": "flycast-sa",
+    "extension": [
+      ".lst",
+      ".bin",
+      ".dat",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Naomi",
+    "id": 56,
+    "name": "naomi",
+    "sa_core": [
+      "flycast-sa"
+    ]
+  },
+  "nds": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "melonds",
+      "melondsds"
+    ],
+    "default_core": "drastic-sa",
+    "extension": [
+      "bin",
+      "dsi",
+      "nds",
+      "zip"
+    ],
+    "fullname": "Nintendo DS",
+    "id": 15,
+    "name": "nds",
+    "sa_core": [
+      "drastic-sa"
+    ]
+  },
+  "neocd": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "neocd",
+      "fbneo"
+    ],
+    "default_core": "neocd",
+    "extension": [
+      ".cue",
+      ".iso",
+      ".chd"
+    ],
+    "fullname": "Neo Geo CD",
+    "id": 70,
+    "name": "neocd",
+    "sa_core": []
+  },
+  "neogeo": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mame2003",
+      "mame2003_plus",
+      "mame2003_midway",
+      "mame2010",
+      "mame2000",
+      "fbneo",
+      "fbalpha",
+      "fbalpha2012",
+      "fbalpha2012_neogeo",
+      "fbalpha2012_cps1",
+      "fbalpha2012_cps2",
+      "fbalpha2012_cps3"
+    ],
+    "default_core": "fbalpha2012",
+    "extension": [
+      ".7z",
+      ".zip",
+      ".neo"
+    ],
+    "fullname": "Neo Geo",
+    "id": 142,
+    "name": "neogeo",
+    "sa_core": []
+  },
+  "nes": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "nestopia",
+      "fceumm",
+      "quicknes",
+      "mesen",
+      "mesen-s"
+    ],
+    "default_core": "fceumm",
+    "extension": [
+      ".nes",
+      ".unif",
+      ".unf",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Nintendo Entertainment System",
+    "id": 3,
+    "name": "nes",
+    "sa_core": []
+  },
+  "nesh": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "nestopia",
+      "fceumm",
+      "quicknes",
+      "mesen",
+      "mesen-s"
+    ],
+    "default_core": "fceumm",
+    "extension": [
+      ".nes",
+      ".unif",
+      ".unf",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "NES (Hacks)",
+    "id": 3,
+    "name": "nesh",
+    "sa_core": []
+  },
+  "ngp": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_ngp",
+      "race"
+    ],
+    "default_core": "mednafen_ngp",
+    "extension": [
+      ".ngp",
+      ".ngc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Neo Geo Pocket",
+    "id": 25,
+    "name": "ngp",
+    "sa_core": []
+  },
+  "ngpc": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_ngp",
+      "race"
+    ],
+    "default_core": "mednafen_ngp",
+    "extension": [
+      ".ngp",
+      ".ngc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Neo Geo Pocket Color",
+    "id": 82,
+    "name": "ngpc",
+    "sa_core": []
+  },
+  "odyssey2": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "o2em"
+    ],
+    "default_core": "o2em",
+    "extension": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Odyssey 2",
+    "id": 104,
+    "name": "odyssey2",
+    "sa_core": []
+  },
+  "openbor": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [],
+    "default_core": "OpenBOR",
+    "extension": [
+      ".pak"
+    ],
+    "fullname": "OpenBOR",
+    "id": 214,
+    "name": "openbor",
+    "sa_core": [
+      "OpenBOR"
+    ]
+  },
+  "palm": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mu"
+    ],
+    "default_core": "mu",
+    "extension": [
+      ".prc",
+      ".pqa",
+      ".img",
+      ".pdb",
+      ".zip"
+    ],
+    "fullname": "Palm OS",
+    "id": 219,
+    "name": "palm",
+    "sa_core": []
+  },
+  "pc-8800": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "quasi88"
+    ],
+    "default_core": "quasi88",
+    "extension": [
+      ".d88",
+      ".u88",
+      ".m3u"
+    ],
+    "fullname": "PC-8800",
+    "id": 221,
+    "name": "pc-8800",
+    "sa_core": []
+  },
+  "pc": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "dosbox_pure",
+      "dosbox_svn"
+    ],
+    "default_core": "dosbox_pure",
+    "extension": [
+      ".com",
+      ".bat",
+      ".exe",
+      ".dosz"
+    ],
+    "fullname": "DOS",
+    "id": 135,
+    "name": "pc",
+    "sa_core": []
+  },
+  "pcengine": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_pce_fast",
+      "mednafen_pce",
+      "mednafen_supergrafx"
+    ],
+    "default_core": "mednafen_pce",
+    "extension": [
+      ".pce",
+      ".bin",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "PC Engine",
+    "id": 31,
+    "name": "pcengine",
+    "sa_core": []
+  },
+  "pcenginecd": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_pce_fast",
+      "mednafen_pce",
+      "mednafen_supergrafx"
+    ],
+    "default_core": "beetle_pce_fast",
+    "extension": [
+      ".cue",
+      ".ccd",
+      ".chd",
+      ".toc",
+      ".m3u"
+    ],
+    "fullname": "PC Engine CD",
+    "id": 114,
+    "name": "pcenginecd",
+    "sa_core": []
+  },
+  "pcfx": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_pcfx"
+    ],
+    "default_core": "beetle_pcfx",
+    "extension": [
+      ".chd",
+      ".cue",
+      ".ccd",
+      ".toc"
+    ],
+    "fullname": "PC-FX",
+    "id": 72,
+    "name": "pcfx",
+    "sa_core": []
+  },
+  "pet": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "vice_xpet"
+    ],
+    "default_core": "vice_xpet",
+    "extension": [
+      ".20",
+      ".a0",
+      ".b0",
+      ".d64",
+      ".d71",
+      ".d80",
+      ".d81",
+      ".d82",
+      ".g64",
+      ".g41",
+      ".x64",
+      ".t64",
+      ".tap",
+      ".prg",
+      ".p00",
+      ".crt",
+      ".bin",
+      ".gz",
+      ".d6z",
+      ".d7z",
+      ".d8z",
+      ".g6z",
+      ".g4z",
+      ".x6z",
+      ".cmd",
+      ".m3u",
+      ".vsf",
+      ".nib",
+      ".nbz",
+      ".zip"
+    ],
+    "fullname": "Commodore PET",
+    "id": 240,
+    "name": "pet",
+    "sa_core": []
+  },
+  "pico-8": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+    ],
+    "default_core": "fake08",
+    "extension": [
+      ".p8",
+      ".png"
+    ],
+    "fullname": "PICO-8",
+    "id": 234,
+    "name": "pico-8",
+    "sa_core": [
+      "pico8"
+    ]
+  },
+  "pokemini": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "pokemini"
+    ],
+    "default_core": "pokemini",
+    "extension": [
+      ".min",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Pokémon Mini",
+    "id": 211,
+    "name": "pokemini",
+    "sa_core": []
+  },
+  "psp": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [],
+    "default_core": "ppsspp-sa",
+    "extension": [
+      ".iso",
+      ".cso",
+      ".pbp",
+      ".chd"
+    ],
+    "fullname": "PlayStation Portable",
+    "id": 61,
+    "name": "psp",
+    "sa_core": [
+      "ppsspp-sa"
+    ]
+  },
+  "pspminis": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [],
+    "default_core": "ppsspp-sa",
+    "extension": [
+      ".iso",
+      ".cso",
+      ".pbp"
+    ],
+    "fullname": "PSP Minis",
+    "id": 61,
+    "name": "pspminis",
+    "sa_core": [
+      "ppsspp-sa"
+    ]
+  },
+  "psx": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "pcsx_rearmed",
+      "mednafen_psx",
+      "mednafen_psx_hw",
+      "swanstation"
+    ],
+    "default_core": "pcsx_rearmed",
+    "extension": [
+      ".bin",
+      ".cue",
+      ".img",
+      ".mdf",
+      ".pbp",
+      ".toc",
+      ".cbn",
+      ".m3u",
+      ".ccd",
+      ".chd",
+      ".iso"
+    ],
+    "fullname": "PlayStation",
+    "id": 57,
+    "name": "psx",
+    "sa_core": [
+      "duckstation-sa"
+    ]
+  },
+  "satellaview": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "snes9x",
+      "snes9x2005",
+      "snes9x2010",
+      "snes9x2002",
+      "snes9x2005_plus"
+    ],
+    "default_core": "snes9x",
+    "extension": [
+      ".smc",
+      ".fig",
+      ".bs",
+      ".sfc",
+      ".bsx",
+      ".swc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Satellaview",
+    "id": 107,
+    "name": "satellaview",
+    "sa_core": []
+  },
+  "saturn": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "yabasanshiro",
+      "yabause"
+    ],
+    "default_core": "yabasanshioro2-sa",
+    "extension": [
+      ".cue",
+      ".chd",
+      ".iso",
+      ".zip"
+    ],
+    "fullname": "Saturn",
+    "id": 22,
+    "name": "saturn",
+    "sa_core": [
+      "yabasanshioro2-sa"
+    ]
+  },
+  "scummvm": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "scummvm"
+    ],
+    "default_core": "scummvm",
+    "extension": [
+      ".sh",
+      ".svm",
+      ".scummvm"
+    ],
+    "fullname": "ScummVM",
+    "id": 123,
+    "name": "scummvm",
+    "sa_core": []
+  },
+  "sega32x": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "picodrive"
+    ],
+    "default_core": "picodrive",
+    "extension": [
+      ".32x",
+      ".smd",
+      ".bin",
+      ".md",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Sega 32X",
+    "id": 19,
+    "name": "sega32x",
+    "sa_core": []
+  },
+  "segacd": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive"
+    ],
+    "default_core": "genesis_plus_gx",
+    "extension": [
+      ".chd",
+      ".cue",
+      ".iso",
+      ".m3u"
+    ],
+    "fullname": "Sega CD",
+    "id": 20,
+    "name": "segacd",
+    "sa_core": []
+  },
+  "sfc": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "snes9x",
+      "snes9x2010",
+      "snes9x2002",
+      "snes9x2005_plus",
+      "bsnes_mercury_performance",
+      "bsnes",
+      "bsnes_hd_beta"
+    ],
+    "default_core": "snes9x",
+    "extension": [
+      ".smc",
+      ".fig",
+      ".sfc",
+      ".swc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Super Famicom",
+    "id": 4,
+    "name": "sfc",
+    "sa_core": []
+  },
+  "sg-1000": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "gearsystem",
+      "genesis_plus_gx",
+      "picodrive"
+    ],
+    "default_core": "gearsystem",
+    "extension": [
+      ".bin",
+      ".sg",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "SG-1000",
+    "id": 109,
+    "name": "sg-1000",
+    "sa_core": []
+  },
+  "snes": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "snes9x",
+      "snes9x2010",
+      "snes9x2002",
+      "snes9x2005_plus",
+      "snes9x2005",
+      "bsnes_mercury_performance",
+      "bsnes",
+      "bsnes_hd_beta"
+    ],
+    "default_core": "snes9x",
+    "extension": [
+      ".smc",
+      ".fig",
+      ".sfc",
+      ".swc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Super Nintendo",
+    "id": 4,
+    "name": "snes",
+    "sa_core": []
+  },
+  "snesh": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "snes9x",
+      "snes9x2010",
+      "snes9x2002",
+      "snes9x2005_plus",
+      "bsnes_mercury_performance",
+      "bsnes",
+      "bsnes_hd_beta"
+    ],
+    "default_core": "snes9x",
+    "extension": [
+      ".smc",
+      ".fig",
+      ".sfc",
+      ".swc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Super Nintendo (Hacks)",
+    "id": 4,
+    "name": "snesh",
+    "sa_core": []
+  },
+  "sufami": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "snes9x"
+    ],
+    "default_core": "snes9x",
+    "extension": [
+      ".st",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "SuFami Turbo",
+    "id": 108,
+    "name": "sufami",
+    "sa_core": []
+  },
+  "supergrafx": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_supergrafx",
+      "mednafen_pce",
+      "mednafen_pce_fast"
+    ],
+    "default_core": "beetle_supergrafx",
+    "extension": [
+      ".pce",
+      ".sgx",
+      ".cue",
+      ".ccd",
+      ".chd",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "SuperGrafx",
+    "id": 31,
+    "name": "supergrafx",
+    "sa_core": []
+  },
+  "supervision": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "potator"
+    ],
+    "default_core": "potator",
+    "extension": [
+      ".sv",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Supervision",
+    "id": 207,
+    "name": "supervision",
+    "sa_core": []
+  },
+  "tg16": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_pce_fast",
+      "mednafen_pce",
+      "mednafen_supergrafx"
+    ],
+    "default_core": "beetle_pce_fast",
+    "extension": [
+      ".pce",
+      ".bin",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "TurboGrafx-16",
+    "id": 31,
+    "name": "tg16",
+    "sa_core": []
+  },
+  "tg16cd": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_pce_fast",
+      "mednafen_pce",
+      "mednafen_supergrafx"
+    ],
+    "default_core": "beetle_pce_fast",
+    "extension": [
+      ".cue",
+      ".ccd",
+      ".chd",
+      ".toc",
+      ".m3u"
+    ],
+    "fullname": "TurboGrafx-CD",
+    "id": 31,
+    "name": "tg16cd",
+    "sa_core": []
+  },
+  "tic-80": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "tic80"
+    ],
+    "default_core": "tic80",
+    "extension": [
+      ".tic"
+    ],
+    "fullname": "TIC-80",
+    "id": 222,
+    "name": "tic-80",
+    "sa_core": []
+  },
+  "uzebox": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "uzem"
+    ],
+    "default_core": "uzem",
+    "extension": [
+      ".uze"
+    ],
+    "fullname": "Uzebox",
+    "id": 216,
+    "name": "uzebox",
+    "sa_core": []
+  },
+  "vectrex": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "vecx"
+    ],
+    "default_core": "vecx",
+    "extension": [
+      ".bin",
+      ".gam",
+      ".vec",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Vectrex",
+    "id": 102,
+    "name": "vectrex",
+    "sa_core": []
+  },
+  "vic20": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "vice_xvic"
+    ],
+    "default_core": "vice_xvic",
+    "extension": [
+      ".20",
+      ".a0",
+      ".b0",
+      ".d64",
+      ".d71",
+      ".d80",
+      ".d81",
+      ".d82",
+      ".g64",
+      ".g41",
+      ".x64",
+      ".t64",
+      ".tap",
+      ".prg",
+      ".p00",
+      ".crt",
+      ".bin",
+      ".gz",
+      ".d6z",
+      ".d7z",
+      ".d8z",
+      ".g6z",
+      ".g4z",
+      ".x6z",
+      ".cmd",
+      ".m3u",
+      ".vsf",
+      ".nib",
+      ".nbz",
+      ".zip"
+    ],
+    "fullname": "VIC-20",
+    "id": 73,
+    "name": "vic20",
+    "sa_core": [
+      "xvic"
+    ]
+  },
+  "videopac": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "o2em"
+    ],
+    "default_core": "o2em",
+    "extension": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "VideoPac",
+    "id": 104,
+    "name": "videopac",
+    "sa_core": []
+  },
+  "vircon32": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "vircon32"
+    ],
+    "default_core": "vircon32",
+    "extension": [
+      ".v32"
+    ],
+    "fullname": "Vircon32",
+    "id": 272,
+    "name": "vircon32",
+    "sa_core": []
+  },
+  "virtualboy": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_vb"
+    ],
+    "default_core": "beetle_vb",
+    "extension": [
+      ".vb",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Virtual Boy",
+    "id": 11,
+    "name": "virtualboy",
+    "sa_core": []
+  },
+  "wonderswan": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_wswan"
+    ],
+    "default_core": "mednafen_wswan",
+    "extension": [
+      ".ws",
+      ".wsc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Wonderswan",
+    "id": 45,
+    "name": "wonderswan",
+    "sa_core": []
+  },
+  "wonderswancolor": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mednafen_wswan"
+    ],
+    "default_core": "mednafen_wswan",
+    "extension": [
+      ".ws",
+      ".wsc",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "Wonderswan Color",
+    "id": 45,
+    "name": "wonderswancolor",
+    "sa_core": []
+  },
+  "x1": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "x1"
+    ],
+    "default_core": "x1",
+    "extension": [
+      ".dx1",
+      ".2d",
+      ".2hd",
+      ".tfd",
+      ".d88",
+      ".88d",
+      ".hdm",
+      ".xdf",
+      ".dup",
+      ".tap",
+      ".cmd",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "X1",
+    "id": 220,
+    "name": "x1",
+    "sa_core": []
+  },
+  "x68000": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "px68k"
+    ],
+    "default_core": "px68k",
+    "extension": [
+      ".dim",
+      ".img",
+      ".d88",
+      ".hdm",
+      ".dup",
+      ".2hd",
+      ".xdf",
+      ".hdf",
+      ".cmd",
+      ".m3u",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "x68000",
+    "id": 79,
+    "name": "x68000",
+    "sa_core": []
+  },
+  "zmachine": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "mojozork"
+    ],
+    "default_core": "mojozork",
+    "extension": [
+      ".dat",
+      ".z1",
+      ".z2",
+      ".z3",
+      ".z4",
+      ".z5",
+      ".z6",
+      ".zip"
+    ],
+    "fullname": "Z-machine",
+    "id": 215,
+    "name": "zmachine",
+    "sa_core": []
+  },
+  "zx81": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "81"
+    ],
+    "default_core": "81",
+    "extension": [
+      ".tzx",
+      ".p",
+      ".t81",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "ZX81",
+    "id": 77,
+    "name": "zx81",
+    "sa_core": []
+  },
+  "zxspectrum": {
+    "Ra_Overlay": "null",
+    "DefaultCpuMode": 0,
+    "zoom": 1,
+    "Ra_core": [
+      "fuse"
+    ],
+    "default_core": "fuse",
+    "extension": [
+      ".tzx",
+      ".tap",
+      ".z80",
+      ".rzx",
+      ".scl",
+      ".trd",
+      ".dsk",
+      ".zip",
+      ".7z"
+    ],
+    "fullname": "ZX Spectrum",
+    "id": 76,
+    "name": "zxspectrum",
+    "sa_core": []
+  }
+}

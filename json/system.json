@@ -1,0 +1,18 @@
+{
+  "system": {
+    "Navigate_next_code": 105,
+    "Navigate_previous_code": 104,
+    "Search_hotkeys_code": 108,
+    "Roms_path": [],
+    "Ra_overlay_path": "",
+    "Cpu_mode":1,
+    "ScreenScraper_ssid": "",
+    "ScreenScraper_password": "",
+    "ScreenScraper_thread": 1,
+    "Platform_next_code": 103,
+    "Platform_previous_code": 102,
+    "themeColor": "DarkNight",
+    "platform_wallpaper": "Magicx-DarkNight",
+    "game_switcher": 0
+  }
+}

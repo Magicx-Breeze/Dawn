@@ -1,0 +1,90 @@
+{
+  "retroarch": {
+    "packageName": "com.retroarch.aarch64",
+    "className": "com.retroarch.browser.retroactivity.RetroActivityFuture",
+    "command": {
+      "args": {
+        "CONFIGFILE": "/storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg",
+        "LIBRETRO": "/data/data/com.retroarch.aarch64/cores/{core}",
+        "ROM": "{file.path}"
+      }
+    }
+  },
+  "duckstation-sa": {
+    "packageName": "com.github.stenzek.duckstation",
+    "className": "com.github.stenzek.duckstation.EmulationActivity",
+    "command": {
+      "args": {
+        "resumeState": "{false}",
+        "bootPath": "{file.path}"
+      }
+    }
+  },
+  "drastic-sa": {
+    "packageName": "com.dsemu.drastic",
+    "className": "com.dsemu.drastic.DraSticActivity",
+    "command": {
+      "data": "{file.uri}"
+    }
+  },
+  "mupen64plusFz": {
+    "packageName": "org.mupen64plusae.v3.alpha",
+    "className": "paulscode.android.mupen64plusae.SplashActivity",
+    "command": {
+      "data": "{file.uri}"
+    }
+  },
+  "ppsspp-sa": {
+    "packageName": "org.ppsspp.ppsspp",
+    "className": "org.ppsspp.ppsspp.PpssppActivity",
+    "command": {
+      "data": "{file.uri}"
+    }
+  },
+  "flycast-sa": {
+    "packageName": "com.flycast.emulator",
+    "className": "com.flycast.emulator.MainActivity",
+    "command": {
+      "data": "{file.uri}"
+    }
+  },
+  "redream-sa": {
+    "packageName": "io.recompiled.redream",
+    "className": "io.recompiled.redream.MainActivity",
+    "command": {
+      "data": "{file.uri}"
+    }
+  },
+  "myboy-sa": {
+    "packageName": "com.fastemulator.gba",
+    "className": "com.fastemulator.gba.EmulatorActivity",
+    "command": {
+      "data": "{file.uri}"
+    }
+  },
+  "myoldboy-sa": {
+    "packageName": "com.fastemulator.gbc",
+    "className": "com.fastemulator.gbc.EmulatorActivity",
+    "command": {
+      "data": "{file.uri}"
+    }
+  },
+  "yabasanshioro2-sa": {
+    "packageName": "org.devmiyax.yabasanshioro2.pro",
+    "className": "org.uoyabause.android.Yabause",
+    "command": {
+      "args": {
+        "org.uoyabause.android.FileNameEx": "{file.path}"
+      }
+    }
+  },
+  "OpenBOR": {
+    "packageName": "org.openbor.engine",
+    "className": "org.openbor.engine.GameActivity",
+    "command": {
+      "command": {
+        "data": "{file.uri}"
+      }
+    }
+  }
+}

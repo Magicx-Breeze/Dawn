@@ -1,0 +1,65 @@
+{
+  "org.ppsspp.ppsspp": {
+    "filter": 1
+  },
+  "org.mupen64plusae.v3.alpha": {
+    "filter": 1
+  },
+  "com.fastemulator.gbc": {
+    "filter": 1
+  },
+  "com.retroarch.aarch64": {
+    "filter": 1
+  },
+  "org.devmiyax.yabasanshioro2.pro": {
+    "filter": 1
+  },
+  "io.recompiled.redream": {
+    "filter": 1
+  },
+  "com.flycast.emulator": {
+    "filter": 1
+  },
+  "com.github.stenzek.duckstation": {
+    "filter": 1
+  },
+  "com.dsemu.drastic": {
+    "filter": 1
+  },
+  "com.softwinner.fireplayer": {
+    "filter": 3
+  },
+  "com.android.wallpaper": {
+    "filter": 3
+  },
+  "com.android.documentsui": {
+    "filter": 3
+  },
+  "magicx.mini.m": {
+    "filter": 3
+  },
+  "com.android.chrome": {
+    "filter": 3
+  },
+  "com.android.settings": {
+    "filter": 3
+  },
+  "com.android.music": {
+    "filter": 3
+  },
+  "com.android.gallery3d": {
+    "filter": 3
+  },
+  "com.android.deskclock": {
+    "filter": 3
+  },
+  "com.android.calendar": {
+    "filter": 3
+  },
+  "com.fastemulator.gba": {
+    "filter": 1
+  },
+  "org.openbor.engine": {
+    "filter": 1
+  }
+}
