@@ -1,0 +1,134 @@
+== || MagicX Mini Zero 28 - Instruction Manual || ==
+
+== CONTENTS ==
+1.- CONTROLS
+ 1.1.- Android Global Controls
+  1.1.1.- When Virtual Mouse Mode is Active
+  1.1.2.- When in App Manager Mode
+ 1.2.- Dawn Launcher Controls
+  1.2.1.- Default Dawn Launcher button settings
+2.- GLOBAL SETTINGS
+ 2.1.- Theme color settings
+ 2.2.- Adding a WALLPAPER for each platform
+ 2.3.- CPU mode switch
+ 2.4.- SCREENSCRAPER
+ 2.5.- Overlay Directory Management
+ 2.6.- Game Directory Management
+3.- PLATFORM AND GAME SETTINGS
+ 3.1.- Platform/Game Core Switch
+ 3.2.- Individual Game Screen Orientation Switch
+4.- ADDING GAMES
+5.- DEVELOPER/ADVANCED SETTINGS
+
+
+== CONTROLS ==
+- Android Global Controls -
+Button Y = Switch focus (Similar to TAB key)
+Short press Button G = Back
+Long press Button G = Home
+Long press R3 (Right joystick click) Open/Close Virtual Mouse
+Button G + Button L2 = Open the app manager
+Button G + Button R2 = Open the top menu navigation
+- When Virtual Mouse Mode is Active -
+L3 (Left joystick click) = Confirm/Select
+R3 (Right joystick click) = Back
+Any other button = Close the Virtual Mouse
+- When in App Manager Mode -
+Button A = Enter the selected app
+Button X = Clear the selected app
+To clear all apps, move to the far left and select the option "Clear all apps".
+- Dawn Launcher Controls -
+Default Dawn Launcher button settings:
+Button A = Confirm
+Button B = Cancel
+Button L1 = Switch to the previous platform
+Button R1 = Switch to the next platform
+Button L2 = Switch to the previous top navigation
+Button R2 = Switch to the next top navigation
+Button START = Open the Search Box
+
+== GLOBAL SETTINGS ==
+- Theme color settings -
+To add preferred colors to the theme, you need to have a basic understanding of JSON, 
+as it is a JSON list that supports multiple objects.
+To obtain the JSON list, first connect your device to your PC via Type-C. Navigate to:
+My Computer > QUAD-CORE A133 aw4 > Internal Storage > Android > data > magic.mini.m > file > Config > json > ThemeColor.json.
+If you want to reset it, simply delete ThemeColor.json, and Dawn will automatically recreate it.
+For more information, visit
+https://github.com/Magicx-Breeze/Dawn/wiki/Theme_Color_Settings_EN
+- Adding a WALLPAPER for each platform -
+Dawn supports adding wallpapers for each platform.
+To add a wallpaper, please ensure your device is connected 
+to your PC via Type-C. 
+Navigate to:
+This PC > QUAD-CORE A133 aw4 > Internal Shared Storage > Android > data> 
+magic.mini.m > files > Config > EmulatorBackground.
+In this directory, create a new folder and name it after each platform.
+The wallpaper should be in JPG format, you can refer to the existing
+default directories for guidance.
+Once you have completed the above steps, you need to perform the following 
+on your device:
+Settings > Restart Dawn.
+
+You will see your newly created folder in Settings > Platform Wallpaper Selection. 
+Select it to switch to your custom platform wallpaper.
+- CPU mode switch -
+There are three places to switch CPU modes: Global, Platform, and Game.
+Their priority is as follows: 
+Game CPU Settings > Platform CPU Settings > Global Settings.
+- SCREENSCRAPER -
+SCREENSCRAPER is an API that allows you to download corresponding cover art 
+for your local ROMs.
+In simple terms, it offers both anonymous downloads and member downloads 
+(you can register for free on their website). 
+It is recommended to become a donor user, which only costs $10. This grants you 
+a download speed of 2 MB/s and the ability to use 6 threads to download cover art.
+
+You can register for free at this website: www.screenscraper.fr
+- Overlay Directory Management -
+The overlay feature is currently only available for RetroArch. 
+Here’s how to add overlays for the platform.
+First, go to Dawn Settings > Overlay Directory Settings. Once you select a directory, 
+Dawn will automatically create a directory named "RaOverlay" within that folder. 
+It will generate corresponding platform names, and you just need to place the cfg overlay 
+configuration files and png overlay images in the respective platform directories. 
+You will then be able to select the overlays you placed in the platform overlay settings.
+- Game Directory Management -
+Dawn supports adding multiple game directory paths, and it will create a directory named "ROMS" 
+in the selected directory. When you place the corresponding game ROMs in the directory, 
+it will automatically scan and recognize the game ROMs, and it will create a Games.json 
+configuration file in the ROMS directory. You can modify the corresponding Chinese name for each ROM.
+
+WARNING:
+When you need to delete a ROM, the Games.json file will also delete the information corresponding 
+to that ROM. 
+If necessary, please back it up before deleting the ROM.
+
+
+== PLATFORM AND GAME SETTINGS ==
+- Platform/Game Core Switch -
+Dawn allows you to freely select the corresponding RetroArch core or standalone emulator 
+for each platform/game.
+It’s important to note:
+Game Core Settings > Platform Core Settings.
+If you encounter issues like a black screen, switching cores is the right choice. 
+Selecting the appropriate core will enhance your gaming experience and make it smoother.
+- Individual Game Screen Orientation Switch -
+Dawn supports the ability to switch the screen orientation for each game (available only for RetroArch).
+When you need to play vertical games, such as vertical shooters, selecting this feature is the right choice. 
+It will automatically rotate the screen to vertical mode after you start the game and configure the correct 
+controls for vertical gameplay.
+== ADDING GAMES ==
+Adding games in Dawn is a very simple process. First, ensure that your device is connected 
+to the PC using a Type-C cable.
+The following is an example of the default ROMs directory path:
+This PC > QUAD-CORE A133 aw4 > Internal Storage > ROMS. In this path, you can see many folders named 
+after the platforms. 
+Simply place the corresponding ROM files into the appropriate platform folder.
+To find out the supported file extensions for each platform, 
+please refer to the "EmulatorConfig.json" configuration file in the assets.
+
+
+== DEVELOPER/ADVANCED SETTINGS ==
+For developer/advanced settings, please visit the official Wiki:
+https://github.com/Magicx-Breeze/Dawn/wiki
