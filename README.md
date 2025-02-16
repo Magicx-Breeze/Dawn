@@ -2,6 +2,11 @@
 
 Dawn is a retro frontend that heavily references Daijishou look and feel, tweaked for our devices to provide more scalability in our future. Currently, it\'s in its infancy. In the future, we will continue to work hard on updates based on feedback from people in the community and our own experiences with retro games.
 
+
+# About PR
+
+I am happy to accept PR. In addition, in the future, Dawn will have the function of updating resources online (including but not limited to: theme colors, wallpapers, launcher configurations, etc.)
+
 # Dawn Wiki
 
 If you want to know how Dawn works, you can check out the - [Wiki](https://github.com/Magicx-Breeze/Dawn/wiki)
